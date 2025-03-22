@@ -1,5 +1,5 @@
 # And = Para ser True todos tem que ser True
-# Or = Para ser True pelo menos deve ser True
+# Or = Para ser True pelo menos um deve ser True
 
 print(True and True)
 print(True and False)
